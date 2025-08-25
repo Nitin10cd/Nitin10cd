@@ -4,7 +4,7 @@
   <br/>
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,html,css,bootstrap,react,nextjs,tailwind,redux,nestjs,nodejs,express,flask,postgresql,mysql,mongodb,redis,supabase,planetscale,appwrite,prisma,postman,git,github,vercel" />
   <br/>
-  <span style="font-size:28px; font-weight:bold;">🚀 Full-Stack Developer | AI Enthusiast</span>
+  <span style="font-size:28px; font-weight:bold; color:#00ffff; text-shadow: 0 0 5px #0ff, 0 0 10px #0ff, 0 0 20px #0ff;">🚀 Full-Stack Developer | AI Enthusiast</span>
 </h1>
 
 ---
@@ -48,34 +48,67 @@
 
 ## 🚀 Featured Projects  
 
-🔗 **[StackNetwork](#)** – Professional networking platform with AI-powered rating system, job filtering & real-time updates  
-🔗 **[Quick SoS](#)** – AI-powered women’s safety platform reducing response time by **3x**  
-🔗 **[Campus Connect](#)** – Campus event & placement dashboard (*Hackathon 3rd Place*) 🏆  
-🔗 **[Hire Ready](#)** – AI-driven interview prep platform with analytics & mock tests  
-🔗 **[Flavour Flo](#)** – AI-powered food e-commerce platform with real-time diet analysis  
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px; margin-top:15px;">
+
+  <div style="background: #0f0f0f; border: 2px solid #00ffff; color:#00ffff; padding:20px; border-radius:15px; width:280px; box-shadow: 0 0 10px #0ff, 0 0 20px #0ff; transition: transform 0.3s;">
+    <h3>StackNetwork</h3>
+    <p style="font-style:italic;">Professional networking platform with AI-powered rating & real-time updates</p>
+  </div>
+
+  <div style="background: #0f0f0f; border: 2px solid #ff00ff; color:#ff00ff; padding:20px; border-radius:15px; width:280px; box-shadow: 0 0 10px #f0f, 0 0 20px #f0f; transition: transform 0.3s;">
+    <h3>Quick SoS</h3>
+    <p style="font-style:italic;">AI-powered women’s safety platform reducing response time by 3x</p>
+  </div>
+
+  <div style="background: #0f0f0f; border: 2px solid #ffff00; color:#ffff00; padding:20px; border-radius:15px; width:280px; box-shadow: 0 0 10px #ff0, 0 0 20px #ff0; transition: transform 0.3s;">
+    <h3>Campus Connect</h3>
+    <p style="font-style:italic;">Campus event & placement dashboard (Hackathon 3rd Place)</p>
+  </div>
+
+  <div style="background: #0f0f0f; border: 2px solid #ff4500; color:#ff4500; padding:20px; border-radius:15px; width:280px; box-shadow: 0 0 10px #ff4500, 0 0 20px #ff4500; transition: transform 0.3s;">
+    <h3>Hire Ready</h3>
+    <p style="font-style:italic;">AI-driven interview prep platform with analytics & mock tests</p>
+  </div>
+
+  <div style="background: #0f0f0f; border: 2px solid #00ff00; color:#00ff00; padding:20px; border-radius:15px; width:280px; box-shadow: 0 0 10px #0f0, 0 0 20px #0f0; transition: transform 0.3s;">
+    <h3>Flavour Flo</h3>
+    <p style="font-style:italic;">AI-powered food e-commerce platform with real-time diet analysis</p>
+  </div>
+
+</div>
 
 ---
 
 ## 🏆 Achievements  
 
-- 🥇 **AuraFlix Hackathon** – *Top 4 out of 400+ participants*  
-- 🏅 **InnovateX Hackathon** – *3rd place out of 15+ teams*  
-- 📊 Solved **400+ DSA problems** on LeetCode & GFG  
-- 🔥 Built **NumScript** (JavaScript numerical computing library with 120+ functions)  
-- 🌍 Contributor in **GirlScript Summer of Code (GSSoC Extended 2024)**  
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px; margin-top:15px;">
 
----
+  <div style="background:#0f0f0f; border: 2px solid #00ffff; color:#00ffff; padding:20px; border-radius:15px; width:250px; box-shadow: 0 0 10px #0ff, 0 0 20px #0ff;">
+    <h3>🥇 AuraFlix Hackathon</h3>
+    <p style="font-style:italic;">Top 4 out of 400+ participants</p>
+  </div>
 
-## 📈 GitHub Analytics  
+  <div style="background:#0f0f0f; border: 2px solid #ff00ff; color:#ff00ff; padding:20px; border-radius:15px; width:250px; box-shadow: 0 0 10px #f0f, 0 0 20px #f0f;">
+    <h3>🏅 InnovateX Hackathon</h3>
+    <p style="font-style:italic;">3rd place out of 15+ teams</p>
+  </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nitin10cd&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitin10cd&theme=tokyonight" height="180"/>
-</p>
+  <div style="background:#0f0f0f; border: 2px solid #ffff00; color:#ffff00; padding:20px; border-radius:15px; width:250px; box-shadow: 0 0 10px #ff0, 0 0 20px #ff0;">
+    <h3>📊 DSA Milestone</h3>
+    <p style="font-style:italic;">Solved 400+ problems on LeetCode & GFG</p>
+  </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitin10cd&layout=compact&theme=tokyonight" height="180"/>
-</p>
+  <div style="background:#0f0f0f; border: 2px solid #ff4500; color:#ff4500; padding:20px; border-radius:15px; width:250px; box-shadow: 0 0 10px #ff4500, 0 0 20px #ff4500;">
+    <h3>🔥 NumScript</h3>
+    <p style="font-style:italic;">JS numerical computing library with 120+ functions</p>
+  </div>
+
+  <div style="background:#0f0f0f; border: 2px solid #00ff00; color:#00ff00; padding:20px; border-radius:15px; width:250px; box-shadow: 0 0 10px #0f0, 0 0 20px #0f0;">
+    <h3>🌍 GSSoC Contributor</h3>
+    <p style="font-style:italic;">GirlScript Summer of Code 2024 (Extended)</p>
+  </div>
+
+</div>
 
 ---
 
@@ -90,4 +123,4 @@
 
 ---
 
-<p align="center">✨ Building the future, one line of code at a time 🚀</p>
+<p align="center" style="color:#0ff; text-shadow: 0 0 5px #0ff, 0 0 10px #0ff;">✨ Building the future, one line of code at a time 🚀</p>
