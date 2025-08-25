@@ -18,8 +18,8 @@
 
 ## ⚡ About Me  
 
-✨ Pre-final year **B.Tech CSE** student (8.52 GPA) at **ACET**  
-🧠 Solved **400+ problems** on LeetCode & GFG | Strong in **DSA & System Design**  
+✨ Final year **B.Tech CSE** student (8.52 GPA) at **ACET**  
+🧠 Solved **400+ problems** on LeetCode & GFG | Strong in **DSA & Development**  
 🎯 Passionate about **AI-powered SaaS, scalable web apps & open-source**  
 🏆 Hackathon Awards: **AuraFlix (Top 4/400+), InnovateX (3rd Place)**  
 
@@ -31,7 +31,7 @@
   <!-- Sequence: Languages → Frontend → Backend → DBs/Tools -->
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c" />  
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs,tailwind" />  
-  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,flask" />  
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,flask,fastapi" />  
   <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,supabase,prisma,git,github" />
 </p>
 
