@@ -2,7 +2,7 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />  
   <br/>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,react,nextjs,nodejs,express,mongodb,postgresql,redis,prisma,tailwind" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,html,css,bootstrap,react,nextjs,tailwind,nestjs,nodejs,express,flask,postgresql,mongodb,redis,supabase,prisma,git,github" />
   <br/>
   <span style="font-size:28px; font-weight:bold;">🚀 Full-Stack Developer | AI Enthusiast</span>
 </h1>
@@ -27,24 +27,13 @@
 
 ## 🛠️ Tech Arsenal  
 
-<div align="center">
-
-<!-- Core Languages -->
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c" />  
-
-<!-- Web Development -->
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs,nestjs,nodejs,express,tailwind" />  
-
-<!-- Databases & Tools -->
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,prisma,git,github" />  
-
-<!-- Data Science / AI -->
-<img src="https://skillicons.dev/icons?i=flask" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" />
-
-</div>
+<p align="center">
+  <!-- Sequence: Languages → Frontend → Backend → DBs/Tools -->
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c" />  
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs,tailwind" />  
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,flask" />  
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,supabase,prisma,git,github" />
+</p>
 
 ---
 
