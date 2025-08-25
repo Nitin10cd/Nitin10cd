@@ -2,7 +2,7 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />  
   <br/>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,html,css,bootstrap,react,nextjs,tailwind,nestjs,nodejs,express,flask,postgresql,mongodb,redis,supabase,prisma,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,html,css,bootstrap,react,nextjs,tailwind,redux,nestjs,nodejs,express,flask,postgresql,mysql,mongodb,redis,supabase,planetscale,appwrite,prisma,postman,git,github,vercel" />
   <br/>
   <span style="font-size:28px; font-weight:bold;">🚀 Full-Stack Developer | AI Enthusiast</span>
 </h1>
@@ -18,8 +18,8 @@
 
 ## ⚡ About Me  
 
-✨ Final year **B.Tech CSE** student (8.52 GPA) at **ACET**  
-🧠 Solved **400+ problems** on LeetCode & GFG | Strong in **DSA & Development**  
+✨ Pre-final year **B.Tech CSE** student (8.52 GPA) at **ACET**  
+🧠 Solved **400+ problems** on LeetCode & GFG | Strong in **DSA & System Design**  
 🎯 Passionate about **AI-powered SaaS, scalable web apps & open-source**  
 🏆 Hackathon Awards: **AuraFlix (Top 4/400+), InnovateX (3rd Place)**  
 
@@ -28,11 +28,20 @@
 ## 🛠️ Tech Arsenal  
 
 <p align="center">
-  <!-- Sequence: Languages → Frontend → Backend → DBs/Tools -->
+  <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c" />  
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs,tailwind" />  
+
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs,tailwind,redux" />  
+
+  <!-- Backend -->
   <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,flask" />  
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,supabase,prisma,git,github" />
+
+  <!-- Databases & Tools -->
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,supabase,planetscale,appwrite" />  
+
+  <!-- DevOps / Misc -->
+  <img src="https://skillicons.dev/icons?i=prisma,postman,git,github,vercel" />  
 </p>
 
 ---
@@ -49,34 +58,24 @@
 
 ## 🏆 Achievements  
 
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px; margin-top:15px;">
+- 🥇 **AuraFlix Hackathon** – *Top 4 out of 400+ participants*  
+- 🏅 **InnovateX Hackathon** – *3rd place out of 15+ teams*  
+- 📊 Solved **400+ DSA problems** on LeetCode & GFG  
+- 🔥 Built **NumScript** (JavaScript numerical computing library with 120+ functions)  
+- 🌍 Contributor in **GirlScript Summer of Code (GSSoC Extended 2024)**  
 
-  <div style="background: linear-gradient(135deg,#6E8EF1,#A777E3); color:white; padding:20px; border-radius:15px; box-shadow: 0 10px 20px rgba(0,0,0,0.2); width:250px; transition: transform 0.3s;">
-    <h3>🥇 AuraFlix Hackathon</h3>
-    <p style="font-style:italic;">Top 4 out of 400+ participants</p>
-  </div>
+---
 
-  <div style="background: linear-gradient(135deg,#FF758C,#FF7EB3); color:white; padding:20px; border-radius:15px; box-shadow: 0 10px 20px rgba(0,0,0,0.2); width:250px; transition: transform 0.3s;">
-    <h3>🏅 InnovateX Hackathon</h3>
-    <p style="font-style:italic;">3rd place out of 15+ teams</p>
-  </div>
+## 📈 GitHub Analytics  
 
-  <div style="background: linear-gradient(135deg,#FDC830,#F37335); color:white; padding:20px; border-radius:15px; box-shadow: 0 10px 20px rgba(0,0,0,0.2); width:250px; transition: transform 0.3s;">
-    <h3>📊 DSA Milestone</h3>
-    <p style="font-style:italic;">Solved 400+ problems on LeetCode & GFG</p>
-  </div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nitin10cd&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitin10cd&theme=tokyonight" height="180"/>
+</p>
 
-  <div style="background: linear-gradient(135deg,#43C6AC,#F8FFAE); color:white; padding:20px; border-radius:15px; box-shadow: 0 10px 20px rgba(0,0,0,0.2); width:250px; transition: transform 0.3s;">
-    <h3>🔥 NumScript</h3>
-    <p style="font-style:italic;">JavaScript numerical computing library with 120+ functions</p>
-  </div>
-
-  <div style="background: linear-gradient(135deg,#FFDEE9,#B5FFFC); color:white; padding:20px; border-radius:15px; box-shadow: 0 10px 20px rgba(0,0,0,0.2); width:250px; transition: transform 0.3s;">
-    <h3>🌍 GSSoC Contributor 24 & Mentor 25</h3>
-    <p style="font-style:italic;">GirlScript Summer of Code 2024 (Extended)</p>
-  </div>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitin10cd&layout=compact&theme=tokyonight" height="180"/>
+</p>
 
 ---
 
