@@ -31,7 +31,7 @@
   <!-- Sequence: Languages → Frontend → Backend → DBs/Tools -->
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c" />  
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs,tailwind" />  
-  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,flask,fastapi" />  
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,flask" />  
   <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,supabase,prisma,git,github" />
 </p>
 
