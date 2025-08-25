@@ -49,11 +49,34 @@
 
 ## 🏆 Achievements  
 
-- 🥇 **AuraFlix Hackathon** – *Top 4 out of 400+ participants*  
-- 🏅 **InnovateX Hackathon** – *3rd place out of 15+ teams*  
-- 📊 Solved **400+ DSA problems** on LeetCode & GFG  
-- 🔥 Built **NumScript** (JavaScript numerical computing library with 120+ functions)  
-- 🌍 Contributor in **GirlScript Summer of Code (GSSoC Extended 2024)**  
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px; margin-top:15px;">
+
+  <div style="background: linear-gradient(135deg,#6E8EF1,#A777E3); color:white; padding:20px; border-radius:15px; box-shadow: 0 10px 20px rgba(0,0,0,0.2); width:250px; transition: transform 0.3s;">
+    <h3>🥇 AuraFlix Hackathon</h3>
+    <p style="font-style:italic;">Top 4 out of 400+ participants</p>
+  </div>
+
+  <div style="background: linear-gradient(135deg,#FF758C,#FF7EB3); color:white; padding:20px; border-radius:15px; box-shadow: 0 10px 20px rgba(0,0,0,0.2); width:250px; transition: transform 0.3s;">
+    <h3>🏅 InnovateX Hackathon</h3>
+    <p style="font-style:italic;">3rd place out of 15+ teams</p>
+  </div>
+
+  <div style="background: linear-gradient(135deg,#FDC830,#F37335); color:white; padding:20px; border-radius:15px; box-shadow: 0 10px 20px rgba(0,0,0,0.2); width:250px; transition: transform 0.3s;">
+    <h3>📊 DSA Milestone</h3>
+    <p style="font-style:italic;">Solved 400+ problems on LeetCode & GFG</p>
+  </div>
+
+  <div style="background: linear-gradient(135deg,#43C6AC,#F8FFAE); color:white; padding:20px; border-radius:15px; box-shadow: 0 10px 20px rgba(0,0,0,0.2); width:250px; transition: transform 0.3s;">
+    <h3>🔥 NumScript</h3>
+    <p style="font-style:italic;">JavaScript numerical computing library with 120+ functions</p>
+  </div>
+
+  <div style="background: linear-gradient(135deg,#FFDEE9,#B5FFFC); color:white; padding:20px; border-radius:15px; box-shadow: 0 10px 20px rgba(0,0,0,0.2); width:250px; transition: transform 0.3s;">
+    <h3>🌍 GSSoC Contributor 24 & Mentor 25</h3>
+    <p style="font-style:italic;">GirlScript Summer of Code 2024 (Extended)</p>
+  </div>
+
+</div>
 
 ---
 
