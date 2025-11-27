@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" />  
   <br/>
-  <strong style="font-size:28px; color:#00ffff;">🚀 Full-Stack Developer | AI & Real-Time Systems Explorer</strong>
+  <strong style="font-size:28px; color:#00ffff;">🚀Software Engineer ( Full Stack Web and Mobile )| AI & Real-Time Systems Explorer</strong>
 </h1>
 
 <p align="center">
