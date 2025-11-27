@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" />  
   <br/>
-  <strong style="font-size:28px; color:#00ffff;">🚀Software Engineer ( Full Stack Web and Mobile )| AI & Real-Time Systems Explorer</strong>
+  <strong style="font-size:28px; color:#00ffff;">🚀Software Engineer ( Full Stack Web and Mobile ) | AI & Real-Time Systems Explorer</strong>
 </h1>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ## ⚡ About Me
 
-- 🎓 Pre-final year **B.Tech CSE** student (8.52 GPA) at **ACET**  
+- 🎓 final year **B.Tech CSE** student (8.52 GPA) at **ACET**  
 - 💡 Solved **400+ DSA problems** on LeetCode & GFG  
 - 🚀 Passionate about **AI-powered SaaS, scalable web apps & open-source**  
 - 🏆 Hackathon Awards:  
