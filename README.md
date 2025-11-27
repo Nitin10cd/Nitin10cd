@@ -27,6 +27,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,html,css,bootstrap,react,nextjs,tailwind,redux,nestjs,nodejs,express,flask,postgresql,mysql,mongodb,redis,supabase,planetscale,appwrite,prisma,postman,git,github,vercel" />
 </p>
+<p align="center"> <img src="https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white" /> </p>
 
 ---
 
