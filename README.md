@@ -3,26 +3,6 @@
 <!-- Animated Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,11,20&text=Nitin%20Saxena&fontSize=70&fontAlignY=40&desc=Software%20Development%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=55&animation=twinkling" width="100%"/>
 
-<div align="center">
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/nitin-saxena-78a976294/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/Nitin_Saxena24" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="LeetCode" />
-  </a>
-</p>
-
-### 💬 Let's Collaborate!
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20for-Opportunities-00D9FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaborations-00D9FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-00D9FF?style=for-the-badge" />
-</p>
-
-</div>
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&height=100&lines=Building+Scalable+Solutions+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%92%BB;AI+%26+ML+Enthusiast+%F0%9F%A4%96;550%2B+DSA+Problems+Solved+%F0%9F%A7%A0;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
