@@ -364,7 +364,7 @@ Specialization: Full Stack Web Development
 
 ### LeetCode Stats
 
-<img src="https://leetcard.jacoblin.cool/Nitin-Saxena?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Stats" />
+<img src="https://leetcode.com/u/Nitin-Saxena_24?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Stats" />
 
 ### GeeksforGeeks Stats
 
