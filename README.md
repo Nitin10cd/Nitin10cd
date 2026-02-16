@@ -2,13 +2,15 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </h1>
 
-## ⚡ About Me
+<h2>⚡ About Me</h2>
 
 <div align="left">
   
 ```yaml
-Education: B.Tech CSE (Final Year) @ Aligarh College of Engineering & Technology
-CGPA: 8.52 | Experience: 7+ months as Software Development Engineer
+Education    : B.Tech CSE (Final Year) @ Aligarh College of Engineering & Technology
+CGPA         : 8.52/10.0
+Experience   : 7+ months as Software Development Engineer @ Artizence
+Specialization: Full Stack Web Development (MERN, Next.js, Django, React Native)
 ```
 
 **🚀 What I Do:**
@@ -60,7 +62,7 @@ Real-time systems, AI integrations, and contributing to open-source projects tha
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="mailto:nsaxenacse@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="/cdn-cgi/l/email-protection#6d031e0c1508030c0e1e082d0a000c0401430e0200"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/nitin-saxena-78a976294"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Nitin10cd"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://leetcode.com/Nitin-Saxena"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
@@ -71,4 +73,4 @@ Real-time systems, AI integrations, and contributing to open-source projects tha
 <p align="center" style="color:#0ff; text-shadow: 0 0 5px #0ff, 0 0 10px #0ff;">✨ Building the future, one line of code at a time 🚀</p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" alt="c633c20ede82f0e0ced7d570dbe3a1f3" title="nitin-saxena" width="100%" />
+<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" alt="c633c20ede82f0e0ced7d570dbe3
