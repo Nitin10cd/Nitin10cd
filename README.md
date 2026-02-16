@@ -1,7 +1,7 @@
-<p font="10px">Hi Devs I'm Nitin Saxena ( SDE 1 )
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<p align="center" style="font-size: 48px; font-weight: bold; font-style: italic;">
+  Hi Devs I'm <b><i>Nitin Saxena</i></b> ( SDE 1 )
 </p>
-
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 <h2>⚡ About Me</h2>
 <div align="left">
   
