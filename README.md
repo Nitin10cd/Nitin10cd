@@ -228,9 +228,9 @@ Specialization: Full Stack Web Development
           <img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
         </a>
         <p><strong>Professional networking platform</strong></p>
-        <p>✅ AI-powered user ratings</p>
-        <p>✅ Real-time updates with Socket.IO</p>
-        <p>✅ Advanced analytics dashboard</p>
+        <p> AI-powered user ratings</p>
+        <p> Real-time updates with Socket.IO</p>
+        <p> Advanced analytics dashboard</p>
         <p>
           <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" />
           <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql" />
@@ -245,9 +245,9 @@ Specialization: Full Stack Web Development
           <img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
         </a>
         <p><strong>Women's safety platform</strong></p>
-        <p>✅ 3x faster emergency response</p>
-        <p>✅ Real-time location tracking</p>
-        <p>✅ Instant alert notifications</p>
+        <p> 3x faster emergency response</p>
+        <p> Real-time location tracking</p>
+        <p> Instant alert notifications</p>
         <p>
           <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react" />
           <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js" />
@@ -265,8 +265,8 @@ Specialization: Full Stack Web Development
         </a>
         <p><strong>Event & placement dashboard</strong></p>
         <p>🏆 Hackathon 3rd Place Winner</p>
-        <p>✅ Centralized event management</p>
-        <p>✅ Placement analytics & tracking</p>
+        <p> Centralized event management</p>
+        <p> Placement analytics & tracking</p>
         <p>
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react" />
           <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express" />
@@ -281,9 +281,9 @@ Specialization: Full Stack Web Development
           <img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
         </a>
         <p><strong>AI-driven interview prep</strong></p>
-        <p>✅ Mock interview tests</p>
-        <p>✅ Performance analytics</p>
-        <p>✅ Personalized feedback</p>
+        <p> Mock interview tests</p>
+        <p> Performance analytics</p>
+        <p>Personalized feedback</p>
         <p>
           <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" />
           <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django" />
@@ -438,11 +438,8 @@ Specialization: Full Stack Web Development
 
 ### 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nitin10cd/Nitin10cd/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nitin10cd/Nitin10cd/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nitin10cd/Nitin10cd/output/github-contribution-grid-snake.svg">
-</picture>
+## My Contribution snake
+![Contribution snake example](https://github.com/Nitin10cd/Nitin10cd/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
