@@ -24,7 +24,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </div>
 
-## <img src="[https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)" width="30px"> About Me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
@@ -89,7 +89,7 @@ Specialization: Full Stack Web Development
 ---
 
 <div align="center">
-  <img src="[https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> Tech Stack & Skills
@@ -228,9 +228,9 @@ Specialization: Full Stack Web Development
           <img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
         </a>
         <p><strong>Professional networking platform</strong></p>
-        <p> AI-powered user ratings</p>
-        <p> Real-time updates with Socket.IO</p>
-        <p> Advanced analytics dashboard</p>
+        <p>✅ AI-powered user ratings</p>
+        <p>✅ Real-time updates with Socket.IO</p>
+        <p>✅ Advanced analytics dashboard</p>
         <p>
           <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" />
           <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql" />
@@ -245,9 +245,9 @@ Specialization: Full Stack Web Development
           <img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
         </a>
         <p><strong>Women's safety platform</strong></p>
-        <p> 3x faster emergency response</p>
-        <p> Real-time location tracking</p>
-        <p> Instant alert notifications</p>
+        <p>✅ 3x faster emergency response</p>
+        <p>✅ Real-time location tracking</p>
+        <p>✅ Instant alert notifications</p>
         <p>
           <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react" />
           <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js" />
@@ -265,8 +265,8 @@ Specialization: Full Stack Web Development
         </a>
         <p><strong>Event & placement dashboard</strong></p>
         <p>🏆 Hackathon 3rd Place Winner</p>
-        <p> Centralized event management</p>
-        <p> Placement analytics & tracking</p>
+        <p>✅ Centralized event management</p>
+        <p>✅ Placement analytics & tracking</p>
         <p>
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react" />
           <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express" />
@@ -281,9 +281,9 @@ Specialization: Full Stack Web Development
           <img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
         </a>
         <p><strong>AI-driven interview prep</strong></p>
-        <p> Mock interview tests</p>
-        <p> Performance analytics</p>
-        <p>Personalized feedback</p>
+        <p>✅ Mock interview tests</p>
+        <p>✅ Performance analytics</p>
+        <p>✅ Personalized feedback</p>
         <p>
           <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" />
           <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django" />
@@ -438,8 +438,11 @@ Specialization: Full Stack Web Development
 
 ### 🐍 Contribution Snake
 
-## My Contribution snake
-![Contribution snake example](https://github.com/Nitin10cd/Nitin10cd/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nitin10cd/Nitin10cd/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nitin10cd/Nitin10cd/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nitin10cd/Nitin10cd/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
