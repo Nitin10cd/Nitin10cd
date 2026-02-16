@@ -3,6 +3,26 @@
 <!-- Animated Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,11,20&text=Nitin%20Saxena&fontSize=70&fontAlignY=40&desc=Software%20Development%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=55&animation=twinkling" width="100%"/>
 
+<div align="center">
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nitin-saxena-78a976294/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/Nitin_Saxena24" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="LeetCode" />
+  </a>
+</p>
+
+### 💬 Let's Collaborate!
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20for-Opportunities-00D9FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaborations-00D9FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-00D9FF?style=for-the-badge" />
+</p>
+
+</div>
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&height=100&lines=Building+Scalable+Solutions+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%92%BB;AI+%26+ML+Enthusiast+%F0%9F%A4%96;550%2B+DSA+Problems+Solved+%F0%9F%A7%A0;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
@@ -358,52 +378,27 @@ Specialization: Full Stack Web Development
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </div>
 
-## 🏅 Coding Profiles & Achievements
-
-<div align="center">
-
-### LeetCode Stats
-
-<img src="https://leetcode.com/u/Nitin-Saxena_24?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Stats" />
-
-### GeeksforGeeks Stats
-
-<img src="https://geeks-for-geeks-stats-card.vercel.app/?username=nitinsaxeq4id" alt="GFG Stats" />
-
-### Coding Platform Badges
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-550+-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/GeeksforGeeks-400+-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rating-1800+-00D9FF?style=for-the-badge&logo=codechef&logoColor=white" />
-</p>
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-</div>
-
 ## 🌐 Connect With Me
 
 <div align="center">
 
 <p align="center">
-  <a href="mailto:nitinsaxena06092004@gmail.com">
+  <a href="mailto:nsaxenacse@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/nitin-saxena-78a976294" target="_blank">
+  <a href="https://www.linkedin.com/in/nitin-saxena-78a976294/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://nitin-portfolio-hazel.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/Nitin10cd" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://leetcode.com/Nitin-Saxena" target="_blank">
+  <a href="https://leetcode.com/u/Nitin-Saxena_24/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/nitinsaxeq4id" target="_blank">
+  <a href="https://www.geeksforgeeks.org/profile/nitinsaxena24" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
   </a>
 </p>
@@ -423,28 +418,16 @@ Specialization: Full Stack Web Development
 <div align="center">
   
 ### 💭 Random Dev Quote
-
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nitin10cd/Nitin10cd/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nitin10cd/Nitin10cd/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nitin10cd/Nitin10cd/output/github-contribution-grid-snake.svg">
-</picture>
-
 </div>
 
 ---
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-  
   <h3>✨ Building the future, one line of code at a time 🚀</h3>
-  
   <p>
-    <i>⭐ From <a href="https://github.com/Nitin10cd">Nitin10cd</a></i>
+    <i>⭐ From <a href="https://github.com/Nitin10cd">Nitin Saxena</a></i>
   </p>
   
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer" width="100%"/>
