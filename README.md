@@ -51,8 +51,11 @@ I’m a Software Engineer passionate about building **scalable web apps, real-ti
 Hi Nitin this side Software Engineer / Full Stack Engineer / Product Builder / Aspiring ML Engineer, Passionate About **scalable web apps, real-time systems, and intelligent solutions**. I enjoy **solving challenging problems and turning ideas into efficient, maintainable code**.
 
 🧩 Experience as **Software Development Engineer 1 at Artizence (8 months)**, building **scalable full-stack applications using JavaScript/TypeScript, React.js, Next.js, Node.js, and Django (DRF)**. Delivered **production-grade systems including authentication, RBAC dashboards, AI interview pipelines, and real-time workflows**, with strong expertise in **designing 65+ server actions, developing RESTful APIs, and integrating AI-driven features like resume analysis, safety detection, and recommendation systems**, along with **React Native (Expo) mobile development and end-to-end API architecture**.
+
 🧩 Building **Full-Stack apps with JavaScript/TypeScript, React.js, Next.js, Node.js, Django**, and exploring **AI-integrated platforms and realtime AI pipelines**.  
+
 🧩 Exploring **new frameworks, AI/ML concepts, Agentic AI, and modern web technologies**.  
+
 🧩 Achievements:  
  - 2nd Runner-up, 2025 Development Hackathon  
  - Bronze, 2025 Group Hackathon  
