@@ -195,12 +195,12 @@ A professional networking and job-matching platform where every profile is rated
 ## GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Nitin10cd&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00EB9A&icon_color=00EB9A&text_color=ffffff&count_private=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitin10cd&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00EB9A&text_color=ffffff"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nitin10cd&theme=github_dark&bg_color=0D1117&title_color=00EB9A&icon_color=00EB9A&text_color=ffffff&border_color=00EB9A"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nitin10cd&theme=github_dark&bg_color=0D1117&title_color=00EB9A&text_color=ffffff&border_color=00EB9A"/>
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=Nitin10cd&theme=dark&hide_border=true&background=0D1117&ring=00EB9A&fire=00EB9A&currStreakLabel=00EB9A"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nitin10cd&theme=github_dark&bg_color=0D1117&title_color=00EB9A&text_color=ffffff&border_color=00EB9A"/>
 </div>
 
 <div align="center">
@@ -208,7 +208,7 @@ A professional networking and job-matching platform where every profile is rated
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitin10cd&custom_title=Contribution%20Activity&bg_color=0D1117&color=00EB9A&line=00EB9A&point=FFFFFF&area_color=00EB9A&area=true&hide_border=true" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nitin10cd&theme=github_dark&utcOffset=5.5&bg_color=0D1117&title_color=00EB9A&text_color=ffffff&border_color=00EB9A"/>
 </div>
 
 ---
